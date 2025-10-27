@@ -1,4 +1,3 @@
-#from experta import *
 from rules import AdditiveExpert
 from facts import Additive, Warning
 
